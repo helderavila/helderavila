@@ -9,4 +9,4 @@ I'm Helder Avila, I'm a front-end developer 👨‍💻 who is passionate about 
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning JavaScript
 - 💬 Ask me about: tech, memes, games
-- ⚡ Languages: JavaScript, JavaScript, JavaScript
+- ⚡ Stack: ReactJS, React Native, NodeJS
